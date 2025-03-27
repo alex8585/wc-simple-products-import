@@ -34,7 +34,7 @@
         <price>18999</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb</picture>
+        <picture>https://content1.rozetka.com.ua/goods/images/big_tile/468886072.jpg</picture>
         <name>Смартфон Xiaomi Redmi Note 10</name>
         <description>6.43" AMOLED, Snapdragon 678, 4GB RAM, 128GB, 48MP камера</description>
         <vendor>Xiaomi</vendor>
@@ -48,7 +48,7 @@
         <price>2499</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://images.unsplash.com/photo-1505740420928-5e560c06d30e</picture>
+        <picture>https://content1.rozetka.com.ua/goods/images/big_tile/414854725.jpg</picture>
         <name>Наушники JBL Tune 510BT</name>
         <description>Беспроводные наушники с Bluetooth, 40mm динамики, до 40 часов работы</description>
         <vendor>JBL</vendor>
@@ -63,8 +63,6 @@
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://content2.rozetka.com.ua/goods/images/big/365552467.jpg</picture>
-        <picture>https://content.rozetka.com.ua/goods/images/big/365552462.jpg</picture>
-        <picture>https://content1.rozetka.com.ua/goods/images/big_tile/414854725.jpg</picture>
         <name>Телевизор Samsung UE50AU7100</name>
         <description>50" 4K UHD, Smart TV, HDR, Crystal Processor 4K</description>
         <vendor>Samsung</vendor>
@@ -78,7 +76,7 @@
         <price>15999</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
-        <picture>https://images.unsplash.com/photo-1516035069371-29a1b244cc32</picture>
+        <picture>https://content.rozetka.com.ua/goods/images/big/365552462.jpg</picture>
         <name>Фотоаппарат Canon EOS 2000D</name>
         <description>24.1MP, APS-C CMOS, Wi-Fi, Full HD видео, 18-55mm объектив</description>
         <vendor>Canon</vendor>
