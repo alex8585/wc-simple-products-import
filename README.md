@@ -1,0 +1,1 @@
+# wc-simple-products-import

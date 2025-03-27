@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-11-15 12:00">
+  <shop>
+    <name>Example Shop</name>
+    <company>Example Company</company>
+    <url>https://example.com</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Ноутбуки</category>
+      <category id="2">Смартфоны</category>
+      <category id="3">Наушники</category>
+      <category id="4">Телевизоры</category>
+      <category id="5">Фотоаппараты</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <url>https://example.com/product/1</url>
+        <price>25999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://content2.rozetka.com.ua/goods/images/big_tile/504736949.jpg</picture>
+        <name>Ноутбук ASUS VivoBook 15</name>
+        <description>15.6" IPS, AMD Ryzen 5, 8GB RAM, 512GB SSD, Windows 11</description>
+        <vendor>ASUS</vendor>
+        <param name="Диагональ экрана">15.6"</param>
+        <param name="Процессор">AMD Ryzen 5 3500U</param>
+        <param name="Оперативная память">8GB</param>
+      </offer>
+
+      <offer id="2" available="true">
+        <url>https://example.com/product/2</url>
+        <price>18999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb</picture>
+        <name>Смартфон Xiaomi Redmi Note 10</name>
+        <description>6.43" AMOLED, Snapdragon 678, 4GB RAM, 128GB, 48MP камера</description>
+        <vendor>Xiaomi</vendor>
+        <param name="Диагональ экрана">6.43"</param>
+        <param name="Процессор">Snapdragon 678</param>
+        <param name="Основная камера">48MP</param>
+      </offer>
+
+      <offer id="3" available="true">
+        <url>https://example.com/product/3</url>
+        <price>2499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://images.unsplash.com/photo-1505740420928-5e560c06d30e</picture>
+        <name>Наушники JBL Tune 510BT</name>
+        <description>Беспроводные наушники с Bluetooth, 40mm динамики, до 40 часов работы</description>
+        <vendor>JBL</vendor>
+        <param name="Тип">Накладные</param>
+        <param name="Время работы">до 40 часов</param>
+        <param name="Bluetooth">5.0</param>
+      </offer>
+
+      <offer id="4" available="true">
+        <url>https://example.com/product/4</url>
+        <price>32999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://content2.rozetka.com.ua/goods/images/big/365552467.jpg</picture>
+        <picture>https://content.rozetka.com.ua/goods/images/big/365552462.jpg</picture>
+        <picture>https://content1.rozetka.com.ua/goods/images/big_tile/414854725.jpg</picture>
+        <name>Телевизор Samsung UE50AU7100</name>
+        <description>50" 4K UHD, Smart TV, HDR, Crystal Processor 4K</description>
+        <vendor>Samsung</vendor>
+        <param name="Диагональ экрана">50"</param>
+        <param name="Разрешение">3840x2160 (4K)</param>
+        <param name="Smart TV">Да</param>
+      </offer>
+
+      <offer id="5" available="true">
+        <url>https://example.com/product/5</url>
+        <price>15999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://images.unsplash.com/photo-1516035069371-29a1b244cc32</picture>
+        <name>Фотоаппарат Canon EOS 2000D</name>
+        <description>24.1MP, APS-C CMOS, Wi-Fi, Full HD видео, 18-55mm объектив</description>
+        <vendor>Canon</vendor>
+        <param name="Матрица">24.1MP APS-C</param>
+        <param name="Видео">Full HD 1080p</param>
+        <param name="Объектив">18-55mm</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
