@@ -20,8 +20,8 @@ class AleUtils
     $elapsed = time() - $startTime;
     $elapsedStr = gmdate("H:i:s", $elapsed);
 
-    if ($current > 0 && $elapsed > 0) {  // Защита от деления на ноль в скорости
-      $eta = $elapsed / $current * ($total - $current);
+    if ($current > 0 && $elapsed > 0) {
+      $eta = round($elapsed / $current * ($total - $current));
       $etaStr = gmdate("H:i:s", $eta);
       $itemsPerSec = $current / $elapsed;
       $speed = number_format($itemsPerSec, 2) . " items/sec";
